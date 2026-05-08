@@ -1,0 +1,201 @@
+name,email,whatsapp,role,company_type,company_name
+Ricardo Oliveira Pinto,ricardo.oliveira.pinto@mendes.com.br,5531970516760,CTO,Varejo,Mendes Supermercados
+Roberto Santos Cavalcanti,roberto.santos.cavalcanti@vieira.com.br,5521932246411,Sócio-Proprietário,Tecnologia,Vieira Digital Solutions
+Gabriel Monteiro Rodrigues,gabriel.monteiro.rodrigues@nascimento.com.br,5511943972722,Coordenador de Compras,Indústria,Nascimento Indústria e Comércio
+Felipe Fernandes Moreira,felipe.fernandes.moreira@metalúrgica.com.br,5531925243971,Coordenador de Compras,Indústria,Metalúrgica Moreira
+Juliana Fernandes Lima,juliana.fernandes.lima@araujo.com.br,5521980377901,CFO,Varejo,Araujo Supermercados
+Renata Carvalho Carvalho,renata.carvalho.carvalho@ferreira.com.br,5531934444437,Sócio-Proprietário,Tecnologia,Ferreira Labs
+Maria Monteiro Dias,maria.monteiro.dias@hospital.com.br,5521982618810,CEO,Saúde,Hospital Rodrigues
+Fernando Martins Cardoso,fernando.martins.cardoso@pinto.com.br,5521956931066,CTO,Educação,Pinto Ensino
+Mariana Ribeiro Rocha,mariana.ribeiro.rocha@pinto.com.br,5511951732107,CEO,Educação,Pinto Cursos
+Gustavo Monteiro Carvalho,gustavo.monteiro.carvalho@pereira.com.br,5521973382200,Sócio-Proprietário,Varejo,Pereira Varejo
+Rodrigo Santos Santos,rodrigo.santos.santos@barbosa.com.br,5521901895982,CFO,Financeiro,Barbosa Investimentos
+Monica Lima Almeida,monica.lima.almeida@pereira.com.br,5511970515978,Gerente Comercial,Serviços,Pereira Manutenção
+Luciana Mendes Santos,luciana.mendes.santos@laboratório.com.br,5531979585303,CFO,Saúde,Laboratório Barbosa
+Larissa Borges Martins,larissa.borges.martins@fernandes.com.br,5531979730210,Diretor de Marketing,Tecnologia,Fernandes Digital Solutions
+Camila Lopes Rocha,camila.lopes.rocha@araujo.com.br,5511983427239,Coordenador de Compras,Saúde,Araujo Médico
+André Cardoso Vieira,andré.cardoso.vieira@borges.com.br,5511949294158,CTO,Serviços,Borges Assistência
+Claudio Lima Oliveira,claudio.lima.oliveira@rocha.com.br,5531910776240,Gerente Comercial,Tecnologia,Rocha Software
+Ana Almeida Teixeira,ana.almeida.teixeira@moreira.com.br,5531925292244,Sócio-Proprietário,Varejo,Moreira Comércio
+Paulo Almeida Moreira,paulo.almeida.moreira@mega.com.br,5511945640598,Gerente Comercial,Varejo,Mega Almeida
+Ana Pinto Lima,ana.pinto.lima@pereira.com.br,5511949513518,CEO,Tecnologia,Pereira Digital Solutions
+Larissa Lima Monteiro,larissa.lima.monteiro@escola.com.br,5511975744834,Sócio-Proprietário,Educação,Escola Gomes
+Carla Vieira Oliveira,carla.vieira.oliveira@hospital.com.br,5521998070963,CTO,Saúde,Hospital Moreira
+Rodrigo Teixeira Costa,rodrigo.teixeira.costa@lojas.com.br,5521911009885,Diretor de Marketing,Varejo,Lojas Nunes
+Eduardo Souza Rocha,eduardo.souza.rocha@martins.com.br,5511949812996,CFO,Agronegócio,Martins Agro
+Renata Vieira Carvalho,renata.vieira.carvalho@oliveira.com.br,5531936887986,Gerente Comercial,Agronegócio,Oliveira Agro
+Mariana Vieira Silva,mariana.vieira.silva@laboratório.com.br,5531934380482,Diretor de Marketing,Saúde,Laboratório Fernandes
+Eduardo Martins Borges,eduardo.martins.borges@ramos.com.br,5521935443866,Gerente de TI,Financeiro,Ramos Investimentos
+André Cavalcanti Carvalho,andré.cavalcanti.carvalho@carvalho.com.br,5521933058070,CFO,Saúde,Carvalho Saúde
+Gustavo Rodrigues Vieira,gustavo.rodrigues.vieira@barbosa.com.br,5511968486674,Coordenador de Compras,Educação,Barbosa Ensino
+Mariana Teixeira Vieira,mariana.teixeira.vieira@metalúrgica.com.br,5511930633343,CTO,Indústria,Metalúrgica Teixeira
+Alexandre Lima Nascimento,alexandre.lima.nascimento@silva.com.br,5511981912212,Sócio-Proprietário,Serviços,Silva Serviços
+Luiz Ramos Araujo,luiz.ramos.araujo@borges.com.br,5521994937084,Gerente Comercial,Financeiro,Borges Crédito
+Vanessa Gomes Carvalho,vanessa.gomes.carvalho@monteiro.com.br,5511946347905,CTO,Varejo,Monteiro Varejo
+Priscila Nunes Santos,priscila.nunes.santos@carvalho.com.br,5521980072331,Gerente de TI,Serviços,Carvalho Consultoria
+Bruna Lima Martins,bruna.lima.martins@fazenda.com.br,5511990066577,Diretor de Marketing,Agronegócio,Fazenda Santos
+Maria Moreira Costa,maria.moreira.costa@oliveira.com.br,5511948038967,Sócio-Proprietário,Tecnologia,Oliveira Software
+Ricardo Teixeira Souza,ricardo.teixeira.souza@dias.com.br,5511953069264,CFO,Indústria,Dias Indústria e Comércio
+Renata Gomes Santos,renata.gomes.santos@dias.com.br,5511993599802,Gerente de TI,Financeiro,Dias Investimentos
+Marcos Martins Lopes,marcos.martins.lopes@fazenda.com.br,5511970805590,Coordenador de Compras,Agronegócio,Fazenda Almeida
+Adriana Lima Pereira,adriana.lima.pereira@souza.com.br,5531974642153,Gerente Comercial,Financeiro,Souza Corretora
+Marcelo Rodrigues Ribeiro,marcelo.rodrigues.ribeiro@borges.com.br,5511908655338,CFO,Varejo,Borges Supermercados
+Patricia Souza Fernandes,patricia.souza.fernandes@lima.com.br,5511955758260,Coordenador de Compras,Varejo,Lima Atacado
+Renata Nunes Correia,renata.nunes.correia@martins.com.br,5511992535778,Gerente de TI,Varejo,Martins Varejo
+Amanda Vieira Pinto,amanda.vieira.pinto@indústria.com.br,5511954818708,Sócio-Proprietário,Indústria,Indústria Santos
+Sergio Cavalcanti Monteiro,sergio.cavalcanti.monteiro@nascimento.com.br,5511965860365,CTO,Educação,Nascimento Cursos
+Amanda Araujo Lopes,amanda.araujo.lopes@ribeiro.com.br,5531951000078,Diretor de Marketing,Indústria,Ribeiro Indústria e Comércio
+Marcelo Cavalcanti Rodrigues,marcelo.cavalcanti.rodrigues@martins.com.br,5511922617109,CFO,Varejo,Martins Comércio
+João Vieira Costa,joão.vieira.costa@laboratório.com.br,5511945543285,Coordenador de Compras,Saúde,Laboratório Borges
+Tatiana Oliveira Borges,tatiana.oliveira.borges@almeida.com.br,5521902908903,CEO,Varejo,Almeida Comércio
+Ana Santos Rocha,ana.santos.rocha@araujo.com.br,5521918719408,Gerente Comercial,Serviços,Araujo Consultoria
+Maria Borges Cardoso,maria.borges.cardoso@fazenda.com.br,5511904670170,CFO,Agronegócio,Fazenda Vieira
+Vanessa Borges Santos,vanessa.borges.santos@indústria.com.br,5521923445558,CFO,Indústria,Indústria Barbosa
+Roberto Cavalcanti Vieira,roberto.cavalcanti.vieira@agro.com.br,5511919058859,Gerente de TI,Agronegócio,Agro Gomes
+Maria Rodrigues Pereira,maria.rodrigues.pereira@araujo.com.br,5521997695213,Sócio-Proprietário,Varejo,Araujo Varejo
+Ricardo Dias Rocha,ricardo.dias.rocha@fazenda.com.br,5511990499010,Gerente de TI,Agronegócio,Fazenda Silva
+Marcelo Moreira Pereira,marcelo.moreira.pereira@costa.com.br,5521978810542,CEO,Tecnologia,Costa TI
+Rodrigo Martins Nunes,rodrigo.martins.nunes@centro.com.br,5511908928843,Gerente Comercial,Saúde,Centro Ramos
+João Rocha Lopes,joão.rocha.lopes@dias.com.br,5521924203246,Gerente Comercial,Indústria,Dias Produtos Industriais
+Gabriel Cavalcanti Rocha,gabriel.cavalcanti.rocha@correia.com.br,5521952804073,CFO,Serviços,Correia Assistência
+Adriana Monteiro Lopes,adriana.monteiro.lopes@moreira.com.br,5521989003418,Gerente de TI,Saúde,Moreira Médico
+Adriana Lima Lopes,adriana.lima.lopes@araujo.com.br,5511917170516,Sócio-Proprietário,Serviços,Araujo Serviços
+Luiz Monteiro Monteiro,luiz.monteiro.monteiro@cavalcanti.com.br,5531987307530,Gerente de TI,Educação,Cavalcanti Cursos
+José Borges Nascimento,josé.borges.nascimento@lopes.com.br,5511930286802,Diretor de Marketing,Financeiro,Lopes Crédito
+Carlos Fernandes Mendes,carlos.fernandes.mendes@nunes.com.br,5531992066262,CFO,Indústria,Nunes Produtos Industriais
+Rafael Nunes Fernandes,rafael.nunes.fernandes@carvalho.com.br,5531938245342,CTO,Serviços,Carvalho Manutenção
+Cristina Vieira Nunes,cristina.vieira.nunes@sítio.com.br,5521998509732,Coordenador de Compras,Agronegócio,Sítio Oliveira
+Rogério Santos Rodrigues,rogério.santos.rodrigues@silva.com.br,5521952130254,Gerente Comercial,Educação,Silva Ensino
+Camila Martins Correia,camila.martins.correia@banco.com.br,5531980165735,Sócio-Proprietário,Financeiro,Banco Correia
+Amanda Pereira Monteiro,amanda.pereira.monteiro@banco.com.br,5521918197854,CFO,Financeiro,Banco Almeida
+Lucas Ribeiro Borges,lucas.ribeiro.borges@hospital.com.br,5511946198288,Gerente de TI,Saúde,Hospital Cavalcanti
+Rogério Lima Fernandes,rogério.lima.fernandes@mega.com.br,5511908247639,Sócio-Proprietário,Varejo,Mega Teixeira
+Ana Gomes Correia,ana.gomes.correia@pinto.com.br,5521902265052,CTO,Tecnologia,Pinto TI
+Rogério Vieira Borges,rogério.vieira.borges@agro.com.br,5531961838024,CEO,Agronegócio,Agro Fernandes
+Adriana Oliveira Oliveira,adriana.oliveira.oliveira@pereira.com.br,5511968994558,Diretor de Marketing,Financeiro,Pereira Crédito
+Veronica Teixeira Almeida,veronica.teixeira.almeida@colégio.com.br,5511933995665,CEO,Educação,Colégio Lima
+José Cardoso Barbosa,josé.cardoso.barbosa@rodrigues.com.br,5521995555937,Gerente Comercial,Financeiro,Rodrigues Corretora
+Maria Almeida Ribeiro,maria.almeida.ribeiro@santos.com.br,5511984046653,Gerente Comercial,Serviços,Santos Serv
+Camila Barbosa Cardoso,camila.barbosa.cardoso@silva.com.br,5521954598392,CTO,Financeiro,Silva Corretora
+Simone Lima Oliveira,simone.lima.oliveira@sítio.com.br,5511967369791,Coordenador de Compras,Agronegócio,Sítio Almeida
+Fernanda Santos Nunes,fernanda.santos.nunes@barbosa.com.br,5521932577925,CTO,Agronegócio,Barbosa Produtos Rurais
+Simone Ramos Vieira,simone.ramos.vieira@pinto.com.br,5511998850963,Gerente Comercial,Serviços,Pinto Serviços
+Amanda Silva Costa,amanda.silva.costa@centro.com.br,5521975348600,Diretor de Marketing,Saúde,Centro Ferreira
+Renata Oliveira Dias,renata.oliveira.dias@pinto.com.br,5511929748021,Coordenador de Compras,Tecnologia,Pinto Labs
+Eduardo Mendes Teixeira,eduardo.mendes.teixeira@pereira.com.br,5531998286116,CEO,Financeiro,Pereira Investimentos
+Marcelo Rocha Silva,marcelo.rocha.silva@rocha.com.br,5521986561543,Diretor de Marketing,Educação,Rocha Ensino
+Fernanda Silva Monteiro,fernanda.silva.monteiro@centro.com.br,5521941995165,Coordenador de Compras,Saúde,Centro Costa
+Cristina Moreira Pinto,cristina.moreira.pinto@rodrigues.com.br,5521946202220,Gerente de TI,Tecnologia,Rodrigues Software
+Luiz Nunes Pinto,luiz.nunes.pinto@fazenda.com.br,5511932605342,Coordenador de Compras,Agronegócio,Fazenda Fernandes
+Paulo Moreira Ramos,paulo.moreira.ramos@agro.com.br,5521909504252,CEO,Agronegócio,Agro Monteiro
+Mariana Pereira Martins,mariana.pereira.martins@martins.com.br,5521925306155,Coordenador de Compras,Indústria,Martins Componentes
+Monica Monteiro Almeida,monica.monteiro.almeida@teixeira.com.br,5521987699374,CTO,Tecnologia,Teixeira Software
+João Nascimento Carvalho,joão.nascimento.carvalho@rocha.com.br,5511968777968,Gerente de TI,Tecnologia,Rocha Software
+Gustavo Oliveira Mendes,gustavo.oliveira.mendes@centro.com.br,5521934686804,CFO,Saúde,Centro Almeida
+Fernando Teixeira Almeida,fernando.teixeira.almeida@martins.com.br,5531953328366,CTO,Indústria,Martins Produtos Industriais
+Thiago Ramos Gomes,thiago.ramos.gomes@agro.com.br,5521907942039,CTO,Agronegócio,Agro Cardoso
+Vanessa Pinto Oliveira,vanessa.pinto.oliveira@dias.com.br,5531939441017,CFO,Educação,Dias Ensino
+Rodrigo Ferreira Mendes,rodrigo.ferreira.mendes@borges.com.br,5521993743741,Gerente de TI,Serviços,Borges Assistência
+Pedro Rocha Silva,pedro.rocha.silva@teixeira.com.br,5521989464556,Coordenador de Compras,Financeiro,Teixeira Corretora
+Vanessa Almeida Almeida,vanessa.almeida.almeida@faculdade.com.br,5521973603464,Coordenador de Compras,Educação,Faculdade Araujo
+Simone Nunes Pereira,simone.nunes.pereira@oliveira.com.br,5511924639059,CFO,Educação,Oliveira Cursos
+Bruna Ramos Borges,bruna.ramos.borges@centro.com.br,5521995684779,CFO,Saúde,Centro Vieira
+Renata Moreira Pinto,renata.moreira.pinto@pereira.com.br,5531999466981,Gerente de TI,Educação,Pereira Educação
+Pedro Almeida Ramos,pedro.almeida.ramos@agro.com.br,5531954158195,Gerente de TI,Agronegócio,Agro Vieira
+Veronica Ferreira Borges,veronica.ferreira.borges@lopes.com.br,5521934341293,Gerente de TI,Educação,Lopes Ensino
+João Borges Martins,joão.borges.martins@lojas.com.br,5511912035432,CTO,Varejo,Lojas Monteiro
+Larissa Rodrigues Souza,larissa.rodrigues.souza@mega.com.br,5521926485320,Coordenador de Compras,Varejo,Mega Borges
+José Santos Barbosa,josé.santos.barbosa@colégio.com.br,5521960952204,CFO,Educação,Colégio Oliveira
+Rogério Nunes Cardoso,rogério.nunes.cardoso@centro.com.br,5511970584074,CFO,Saúde,Centro Almeida
+Adriana Cardoso Dias,adriana.cardoso.dias@colégio.com.br,5521999833001,Gerente de TI,Educação,Colégio Moreira
+Fernanda Rocha Souza,fernanda.rocha.souza@gomes.com.br,5531936095061,CTO,Educação,Gomes Ensino
+Leonardo Ramos Ribeiro,leonardo.ramos.ribeiro@fábrica.com.br,5511941532321,Gerente Comercial,Indústria,Fábrica Almeida
+Roberto Martins Santos,roberto.martins.santos@borges.com.br,5521927330377,CTO,Serviços,Borges Serviços
+Monica Lopes Almeida,monica.lopes.almeida@centro.com.br,5521939621756,Gerente Comercial,Saúde,Centro Silva
+Leonardo Mendes Martins,leonardo.mendes.martins@martins.com.br,5521961358569,CTO,Serviços,Martins Consultoria
+Adriana Martins Gomes,adriana.martins.gomes@cardoso.com.br,5511905794832,Sócio-Proprietário,Serviços,Cardoso Assistência
+Rafael Carvalho Cardoso,rafael.carvalho.cardoso@monteiro.com.br,5531902725858,CFO,Agronegócio,Monteiro Produtos Rurais
+Luciana Monteiro Barbosa,luciana.monteiro.barbosa@carvalho.com.br,5521966652888,CEO,Financeiro,Carvalho Corretora
+Renata Borges Ramos,renata.borges.ramos@silva.com.br,5521910929342,Coordenador de Compras,Indústria,Silva Indústria e Comércio
+Felipe Correia Nunes,felipe.correia.nunes@gomes.com.br,5521906066772,Diretor de Marketing,Serviços,Gomes Consultoria
+Claudio Moreira Rodrigues,claudio.moreira.rodrigues@martins.com.br,5511900379453,Gerente de TI,Varejo,Martins Varejo
+Simone Rodrigues Correia,simone.rodrigues.correia@nascimento.com.br,5511936753245,Gerente Comercial,Serviços,Nascimento Manutenção
+Luiz Dias Ramos,luiz.dias.ramos@faculdade.com.br,5521981388812,Sócio-Proprietário,Educação,Faculdade Ribeiro
+Marcos Araujo Oliveira,marcos.araujo.oliveira@fábrica.com.br,5511914080196,Gerente de TI,Indústria,Fábrica Oliveira
+Veronica Oliveira Martins,veronica.oliveira.martins@moreira.com.br,5511971346316,Gerente Comercial,Financeiro,Moreira Crédito
+Gabriel Borges Ribeiro,gabriel.borges.ribeiro@ferreira.com.br,5511970443762,Gerente Comercial,Tecnologia,Ferreira Tech
+Paulo Nascimento Rocha,paulo.nascimento.rocha@nascimento.com.br,5531909675126,Gerente Comercial,Varejo,Nascimento Supermercados
+José Ferreira Oliveira,josé.ferreira.oliveira@oliveira.com.br,5521967049326,Diretor de Marketing,Serviços,Oliveira Assistência
+Maria Costa Lopes,maria.costa.lopes@santos.com.br,5521955835788,CEO,Tecnologia,Santos Sistemas
+Roberto Lima Pinto,roberto.lima.pinto@fábrica.com.br,5521986496237,Sócio-Proprietário,Indústria,Fábrica Santos
+Simone Carvalho Nunes,simone.carvalho.nunes@hospital.com.br,5511904137198,Sócio-Proprietário,Saúde,Hospital Dias
+Adriana Silva Oliveira,adriana.silva.oliveira@centro.com.br,5531960259171,Diretor de Marketing,Saúde,Centro Ribeiro
+Fernando Santos Silva,fernando.santos.silva@nunes.com.br,5511983856573,CFO,Tecnologia,Nunes Labs
+Lucas Souza Moreira,lucas.souza.moreira@indústria.com.br,5531908680670,Gerente Comercial,Indústria,Indústria Moreira
+Rodrigo Mendes Rocha,rodrigo.mendes.rocha@escola.com.br,5521903812931,Coordenador de Compras,Educação,Escola Araujo
+Mariana Vieira Silva,mariana.vieira.silva@silva.com.br,5531938319582,CFO,Agronegócio,Silva Produtos Rurais
+Ricardo Costa Araujo,ricardo.costa.araujo@nunes.com.br,5521953434582,Coordenador de Compras,Financeiro,Nunes Financeira
+Daniela Correia Teixeira,daniela.correia.teixeira@costa.com.br,5511920306138,CEO,Financeiro,Costa Crédito
+Rafael Lima Souza,rafael.lima.souza@vieira.com.br,5521931401678,Gerente de TI,Varejo,Vieira Varejo
+Cristina Dias Fernandes,cristina.dias.fernandes@carvalho.com.br,5511986546395,CEO,Serviços,Carvalho Manutenção
+Tatiana Cardoso Ramos,tatiana.cardoso.ramos@rocha.com.br,5511983551699,Diretor de Marketing,Financeiro,Rocha Corretora
+Veronica Lima Ferreira,veronica.lima.ferreira@carvalho.com.br,5521927893135,CTO,Varejo,Carvalho Atacado
+Rogério Nascimento Nunes,rogério.nascimento.nunes@cavalcanti.com.br,5531929224935,Gerente Comercial,Agronegócio,Cavalcanti Agronegócio
+Luiz Silva Nunes,luiz.silva.nunes@lopes.com.br,5521934659580,CTO,Varejo,Lopes Atacado
+Mariana Gomes Pereira,mariana.gomes.pereira@souza.com.br,5531985628769,CTO,Agronegócio,Souza Produtos Rurais
+Luciana Borges Rocha,luciana.borges.rocha@lopes.com.br,5511907457619,CTO,Financeiro,Lopes Corretora
+Fernando Silva Mendes,fernando.silva.mendes@araujo.com.br,5521910809885,CTO,Indústria,Araujo Indústria e Comércio
+Beatriz Rodrigues Carvalho,beatriz.rodrigues.carvalho@barbosa.com.br,5531900004025,Diretor de Marketing,Financeiro,Barbosa Corretora
+Sergio Teixeira Moreira,sergio.teixeira.moreira@mendes.com.br,5511936962213,Diretor de Marketing,Financeiro,Mendes Capital
+Claudio Teixeira Monteiro,claudio.teixeira.monteiro@faculdade.com.br,5531958561598,Coordenador de Compras,Educação,Faculdade Ribeiro
+Beatriz Rocha Ramos,beatriz.rocha.ramos@mega.com.br,5531974673724,Coordenador de Compras,Varejo,Mega Pereira
+Bruna Cavalcanti Silva,bruna.cavalcanti.silva@vieira.com.br,5521946796799,Sócio-Proprietário,Financeiro,Vieira Capital
+Juliana Barbosa Silva,juliana.barbosa.silva@araujo.com.br,5511901010716,CFO,Agronegócio,Araujo Produtos Rurais
+Rogério Cavalcanti Costa,rogério.cavalcanti.costa@carvalho.com.br,5511910749270,Diretor de Marketing,Financeiro,Carvalho Corretora
+Tatiana Rocha Almeida,tatiana.rocha.almeida@rodrigues.com.br,5531928116901,CFO,Tecnologia,Rodrigues Labs
+Larissa Pinto Vieira,larissa.pinto.vieira@teixeira.com.br,5521956380729,Coordenador de Compras,Tecnologia,Teixeira Digital Solutions
+Fernanda Barbosa Oliveira,fernanda.barbosa.oliveira@hospital.com.br,5511974975383,Coordenador de Compras,Saúde,Hospital Barbosa
+Renata Teixeira Ribeiro,renata.teixeira.ribeiro@santos.com.br,5521945201340,CTO,Financeiro,Santos Corretora
+Pedro Rocha Almeida,pedro.rocha.almeida@moreira.com.br,5511965263049,Sócio-Proprietário,Financeiro,Moreira Investimentos
+Cristina Teixeira Rodrigues,cristina.teixeira.rodrigues@ramos.com.br,5531958120246,CEO,Varejo,Ramos Comércio
+Ricardo Ferreira Ribeiro,ricardo.ferreira.ribeiro@nunes.com.br,5521962287287,Diretor de Marketing,Varejo,Nunes Supermercados
+Carlos Rodrigues Rodrigues,carlos.rodrigues.rodrigues@cardoso.com.br,5531981880806,Gerente de TI,Varejo,Cardoso Varejo
+Pedro Cavalcanti Costa,pedro.cavalcanti.costa@teixeira.com.br,5531949739846,Sócio-Proprietário,Financeiro,Teixeira Corretora
+Paulo Rocha Ferreira,paulo.rocha.ferreira@carvalho.com.br,5521930337158,CEO,Financeiro,Carvalho Investimentos
+Gabriel Fernandes Borges,gabriel.fernandes.borges@centro.com.br,5511985470599,Gerente Comercial,Saúde,Centro Almeida
+Lucas Lopes Almeida,lucas.lopes.almeida@escola.com.br,5511948243973,CFO,Educação,Escola Carvalho
+Rogério Correia Santos,rogério.correia.santos@fazenda.com.br,5531950605570,Sócio-Proprietário,Agronegócio,Fazenda Fernandes
+Camila Oliveira Araujo,camila.oliveira.araujo@ribeiro.com.br,5521938348309,Sócio-Proprietário,Financeiro,Ribeiro Investimentos
+Pedro Teixeira Cavalcanti,pedro.teixeira.cavalcanti@sítio.com.br,5521988228755,Sócio-Proprietário,Agronegócio,Sítio Silva
+Larissa Gomes Pereira,larissa.gomes.pereira@fernandes.com.br,5511956620476,CTO,Serviços,Fernandes Serv
+Bruna Vieira Carvalho,bruna.vieira.carvalho@ramos.com.br,5521916109215,Sócio-Proprietário,Tecnologia,Ramos Sistemas
+Fernanda Correia Ribeiro,fernanda.correia.ribeiro@cardoso.com.br,5521959262875,CEO,Serviços,Cardoso Assistência
+Fernanda Santos Ferreira,fernanda.santos.ferreira@ramos.com.br,5511949510536,Sócio-Proprietário,Saúde,Ramos Médico
+Rodrigo Mendes Rocha,rodrigo.mendes.rocha@barbosa.com.br,5521988915204,CTO,Varejo,Barbosa Atacado
+Mariana Dias Lima,mariana.dias.lima@carvalho.com.br,5531979343061,Sócio-Proprietário,Educação,Carvalho Ensino
+Paulo Pinto Lopes,paulo.pinto.lopes@cardoso.com.br,5511948816432,Sócio-Proprietário,Serviços,Cardoso Assistência
+Roberto Dias Martins,roberto.dias.martins@teixeira.com.br,5521985940936,Diretor de Marketing,Financeiro,Teixeira Investimentos
+Larissa Ribeiro Ribeiro,larissa.ribeiro.ribeiro@ramos.com.br,5531992232218,Gerente Comercial,Serviços,Ramos Serviços
+Rafael Santos Costa,rafael.santos.costa@carvalho.com.br,5511963444894,Sócio-Proprietário,Indústria,Carvalho Produtos Industriais
+Luciana Santos Santos,luciana.santos.santos@ferreira.com.br,5531970553428,CEO,Varejo,Ferreira Supermercados
+Lucas Araujo Costa,lucas.araujo.costa@barbosa.com.br,5511965876453,CEO,Financeiro,Barbosa Crédito
+Patricia Mendes Lopes,patricia.mendes.lopes@laboratório.com.br,5531972646497,Sócio-Proprietário,Saúde,Laboratório Correia
+Priscila Fernandes Costa,priscila.fernandes.costa@almeida.com.br,5531935050993,CEO,Tecnologia,Almeida Sistemas
+Monica Almeida Santos,monica.almeida.santos@nascimento.com.br,5531968216325,Diretor de Marketing,Educação,Nascimento Educação
+Camila Oliveira Ferreira,camila.oliveira.ferreira@cavalcanti.com.br,5531909977672,CTO,Serviços,Cavalcanti Consultoria
+Ana Cardoso Vieira,ana.cardoso.vieira@monteiro.com.br,5531918583346,Diretor de Marketing,Tecnologia,Monteiro Sistemas
+Sergio Ferreira Ramos,sergio.ferreira.ramos@silva.com.br,5531996069942,Gerente de TI,Varejo,Silva Supermercados
+Priscila Ferreira Fernandes,priscila.ferreira.fernandes@monteiro.com.br,5511999673057,Coordenador de Compras,Financeiro,Monteiro Crédito
+Luiz Correia Moreira,luiz.correia.moreira@costa.com.br,5531974582110,Coordenador de Compras,Serviços,Costa Assistência
+Fernando Lima Monteiro,fernando.lima.monteiro@pereira.com.br,5511900058600,CTO,Tecnologia,Pereira Tech
+Leonardo Cardoso Almeida,leonardo.cardoso.almeida@indústria.com.br,5521907070194,Coordenador de Compras,Indústria,Indústria Nunes
+Alexandre Teixeira Carvalho,alexandre.teixeira.carvalho@oliveira.com.br,5531923037907,Coordenador de Compras,Varejo,Oliveira Supermercados
+Carlos Correia Santos,carlos.correia.santos@lima.com.br,5521941130641,CEO,Tecnologia,Lima Digital Solutions
+Sergio Rocha Correia,sergio.rocha.correia@silva.com.br,5521999430911,Gerente Comercial,Serviços,Silva Soluções
+Maria Correia Dias,maria.correia.dias@sítio.com.br,5511935431954,Diretor de Marketing,Agronegócio,Sítio Araujo
+Larissa Borges Santos,larissa.borges.santos@borges.com.br,5511999361759,Gerente Comercial,Saúde,Borges Saúde
+Vanessa Vieira Cavalcanti,vanessa.vieira.cavalcanti@gomes.com.br,5521921033831,Coordenador de Compras,Tecnologia,Gomes Digital Solutions
+Camila Teixeira Barbosa,camila.teixeira.barbosa@pinto.com.br,5521998922590,CFO,Serviços,Pinto Manutenção
+Rodrigo Martins Nunes,rodrigo.martins.nunes@moreira.com.br,5521963104472,CTO,Financeiro,Moreira Crédito
+Beatriz Nascimento Dias,beatriz.nascimento.dias@correia.com.br,5531959100542,CFO,Saúde,Correia Saúde
+Pedro Gomes Ribeiro,pedro.gomes.ribeiro@lima.com.br,5531907234619,Gerente de TI,Tecnologia,Lima TI
