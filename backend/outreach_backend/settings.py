@@ -21,12 +21,19 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 # See https://docs.djangoproject.com/en/5.2/howto/deployment/checklist/
 
 # SECURITY WARNING: keep the secret key used in production secret!
-SECRET_KEY = 'django-insecure-d7)_@p=1-ag9ibi8l52yi#8g@@3vf+yd44^1l#dixamnpligq2'
+SECRET_KEY = os.environ.get('SECRET_KEY', 'django-insecure-d7)_@p=1-ag9ibi8l52yi#8g@@3vf+yd44^1l#dixamnpligq2')
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = True
+DEBUG = os.environ.get('DEBUG', 'True') == 'True'
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = os.environ.get('ALLOWED_HOSTS', '').split(',') if os.environ.get('ALLOWED_HOSTS') else ['localhost', '127.0.0.1']
+
+# Railway automatically sets PORT and Railway Public Domain
+RAILWAY_DOMAIN = os.environ.get('RAILWAY_PUBLIC_DOMAIN')
+if RAILWAY_DOMAIN:
+    ALLOWED_HOSTS.append(RAILWAY_DOMAIN)
+    # Also add the Railway URL without subdomain
+    ALLOWED_HOSTS.append(f'.{RAILWAY_DOMAIN}')
 
 
 # Application definition
