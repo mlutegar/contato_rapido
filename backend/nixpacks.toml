@@ -1,0 +1,8 @@
+[phases.build]
+cmds = ["pip install -r requirements.txt"]
+
+[phases.start]
+cmd = "gunicorn outreach_backend.wsgi --bind 0.0.0.0:$PORT"
+
+[statics]
+# Serve static files with whitenoise
