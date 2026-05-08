@@ -1,6 +1,9 @@
 import { Client, ClientFilters, FilterOptions, GeneratedTextResult } from '../types/index';
 
-const BASE_URL = 'http://localhost:8173';
+// Use production URL when deployed, localhost for development
+const BASE_URL = import.meta.env.MODE === 'production'
+  ? 'https://sua-api.railway.app'  // ← Substituir pela URL do Railway após deploy
+  : 'http://localhost:8173';
 
 export const api = {
   async getFilterOptions(): Promise<FilterOptions> {
