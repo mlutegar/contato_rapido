@@ -2,7 +2,7 @@ import { Client, ClientFilters, FilterOptions, GeneratedTextResult } from '../ty
 
 // Use production URL when deployed, localhost for development
 const BASE_URL = import.meta.env.MODE === 'production'
-  ? 'https://sua-api.railway.app'  // ← Substituir pela URL do Railway após deploy
+  ? 'https://contatorapido-production.up.railway.app'
   : 'http://localhost:8173';
 
 export const api = {
